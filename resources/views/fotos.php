@@ -8,7 +8,7 @@
 </head>
 <!-- Empieza codigo calculadora html-->
   <form name="calculator">
-    <h3>Calculadora <a href="#"></a></h3>
+    <h3>Calculadora de Cristian<a href="#"></a></h3>
     <p>Haz algun calculo para ver el resultado.</p>
     <input type="textfield" name="ans" value="">
     <br>
