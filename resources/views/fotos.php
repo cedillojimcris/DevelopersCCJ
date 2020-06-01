@@ -9,7 +9,7 @@
 <!-- Empieza codigo calculadora html-->
   <form name="calculator">
     <h3>Calculadora de Cristian<a href="#"></a></h3>
-    <p>Haz algun calculo para ver el resultado.</p>
+    <p>Haz algun calculo para ver el resultado. por favor</p>
     <input type="textfield" name="ans" value="">
     <br>
     <input type="button" value="1" onClick="document.calculator.ans.value+='1'">
